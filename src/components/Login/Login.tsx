@@ -41,7 +41,7 @@ import {
   StyledInput,
   InputWithAdornment,
   AdornmentButton,
-} from "../Cadastro/Cadastro.styles";
+} from "../Cadastro/Components/Input/Input.style";
 
 // Ícones do Material UI para o botão de mostrar/ocultar senha.
 import { Visibility, VisibilityOff } from "@mui/icons-material";
