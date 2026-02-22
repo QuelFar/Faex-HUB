@@ -5,9 +5,7 @@ import Sidebar from "../Sidebar/Sidebar";
 import VideoLibraryIcon from "@mui/icons-material/VideoLibrary";
 import PhotoIcon from "@mui/icons-material/Photo";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
-import PlayCircleFilledRoundedIcon from "@mui/icons-material/PlayCircleFilledRounded";
 import PublicIcon from "@mui/icons-material/Public";
-import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 
 import {
     ActivityCard,
